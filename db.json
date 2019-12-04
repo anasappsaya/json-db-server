@@ -1,298 +1,214 @@
 {
     "exibitors": [
         {
-            "id": 1730,
+            "id": 1,
             "address1": "M1, JALAN ML 16,  ML 16 INDUSTRIAL PARK",
             "booth_no": "1E 13",
             "city": "SERI KEMBANGAN",
             "name": "TOP FRUITS SDN BHD"
         },
         {
-            "id": 1731,
+            "id": 2,
             "address1": "LOT 1115,  JALAN UTAMA",
             "booth_no": "2F 05, 2F 06, 2F 07,2F 26,2F 27,2F 28",
             "city": "KUCHING",
             "name": "MALAYSIAN PEPPER BOARD (MPB)"
         },
         {
-            "id": 1732,
+            "id": 3,
             "address1": "9, 10, 11, 11A, 15, 16, 17, 23 JALAN PERUSAHAAN RINGAN 1 KAWASAN PERINDUSTRIAN RINGAN MAK MANDIN",
             "booth_no": "1B 20",
             "city": "",
             "name": "THIEN CHEONG SDN BHD"
         },
         {
-            "id": 1733,
+            "id": 4,
             "address1": "NO L9, JALAN ML-16, ML 16 INDUSTRIAL PARK",
             "booth_no": "1F 03, 1F 04",
             "city": "SERI KEMBANGAN",
             "name": "HWA TAI INDUSTRIES BERHAD"
         },
         {
-            "id": 1734,
+            "id": 5,
             "address1": "NO. 5, JALAN SEMTEC 2, SEMTEC PARK,",
             "booth_no": "1B 25, 1B 26",
             "city": "SEMENYIH",
             "name": "QL FIGO (JOHOR) SDN BHD"
         },
         {
-            "id": 1735,
+            "id": 6,
             "address1": "NO. 3A, JALAN MAWAR TAMAN PERINDUSTRIAN BUKIT SERDANG,",
             "booth_no": "1P 03",
             "city": "SERI KEMBANGAN",
             "name": "SANGKAYA (M) SDN. BHD."
         },
         {
-            "id": 1736,
+            "id": 7,
             "address1": "5B-4, SETIA AVENUE JALAN SETIA PRIMA S U13/S, SETIA ALAM SEKSYEN U13",
             "booth_no": "1V 02",
             "city": "SHAH ALAM",
             "name": "CLEANERA MALAYSIA SDN BHD"
         },
         {
-            "id": 1737,
+            "id": 8,
             "address1": "NO 10 &12 JALAN MUTIARA EMAS 5/17 TAMAN MOUNT AUSTIN,",
             "booth_no": "2P 03",
             "city": "JOHOR BAHRU",
             "name": "BAMBOOSTICK ICE CREAM (M) SDN BHD"
         },
         {
-            "id": 1738,
+            "id": 9,
             "address1": "",
             "booth_no": "1P 04",
             "city": "",
             "name": "HARMONY LOTUS FOOD (M) SDN BHD"
         },
         {
-            "id": 1739,
+            "id": 10,
             "address1": "NO 1, JALAN KAMPUNG KEDUNDUNG POKOK SENA, MK. JABI",
             "booth_no": "1A 24",
             "city": "ALOR SETAR",
             "name": "TWENTY-TWENTY FOOD INDUSTRY SDN BHD"
         },
         {
-            "id": 1740,
+            "id": 11,
             "address1": "",
             "booth_no": "1U 08",
             "city": "",
             "name": "NATURAL WELLNESS PHARMACEUTICALS (M) SDN BHD"
         },
         {
-            "id": 1741,
+            "id": 12,
             "address1": "56 &58, JALAN DAGANG SB 4/2, TAMAN SG. BESI INDAH,",
             "booth_no": "1K 25",
             "city": "SERI KEMBANGAN",
             "name": "SENTORIA THEMEPARKS AND RESORTS SDN BHD"
         },
         {
-            "id": 1742,
+            "id": 13,
             "address1": "NO 7, JALAN TPP 1/5 TAMAN INDUSTRI PUCHONG, BATU 12",
             "booth_no": "1A 21",
             "city": "PUCHONG",
             "name": "CHOICES PRIVILEGES SDN BHD"
         },
         {
-            "id": 1743,
+            "id": 14,
             "address1": "LOT 6787, JALAN MERBAU BATU 6 3/4 OFF JALAN KAPAR",
             "booth_no": "1F 23,1F 24",
             "city": "KLANG",
             "name": "MAXMASTER INDUSTRY SDN BHD"
         },
         {
-            "id": 1744,
+            "id": 15,
             "address1": "IRSAL BUILDING",
             "booth_no": "1Q 23",
             "city": "",
             "name": "PALESTINIAN COMPANY FOR EXPORTS"
         },
         {
-            "id": 1745,
+            "id": 16,
             "address1": "22ND FLOOR WISMA MCA 163 JALAN AMPANG",
             "booth_no": "1B 03. 1B 04, 1B 29, 1B 30",
             "city": "",
             "name": "DINDINGS POULTRY PROCESSING SDN BHD"
         },
         {
-            "id": 1746,
+            "id": 17,
             "address1": "LOT 4089, JALAN P4-8 BANDAR TEKNOLOGI KAJANG,",
             "booth_no": "1F 21",
             "city": "SEMENYIH,",
             "name": "ERAPOLY GLOBAL SDN. BHD."
         },
         {
-            "id": 1747,
+            "id": 18,
             "address1": "PLOT 240A SOLOK PERINDUSTRIAN BUKIT MINYAK 1 TAMAN PERIDUSTRIAN BUKIT MINYAK",
             "booth_no": "2P 05",
             "city": "BUKIT MERTAJAM",
             "name": "TENTEN FOOD MANUFACTURING SDN BHD"
         },
         {
-            "id": 1748,
+            "id": 19,
             "address1": "SUITE 05, 06 &07, BLOCK C, SKYPARK,",
             "booth_no": "1B 18",
             "city": "SUBANG JAYA",
             "name": "AGRI ASIA SDN BHD"
         },
         {
-            "id": 1749,
+            "id": 20,
             "address1": "6, JALAN TAHANA,  KAWASAN PERINDUSTRIAN TAMPOI",
             "booth_no": "1B 27, 1B 28",
             "city": "JOHOR BAHRU",
             "name": "WIN WIN FOOD INDUSTRIES SDN BHD"
         },
         {
-            "id": 1750,
+            "id": 21,
             "address1": "",
             "booth_no": "1R 10",
             "city": "",
             "name": "BENTO FOOD INDUSTRIES SDN BHD"
         },
         {
-            "id": 1751,
+            "id": 22,
             "address1": "NO 27, JALAN KORPORAT 2/KU9, OFF PERSIARAN HAMZAH ALANG KAWASAN PERINDUSTRIAN MERU,",
             "booth_no": "1E 20",
             "city": "KAPAR",
             "name": "BON FOOD INDUSTRIES SDN BHD"
         },
         {
-            "id": 1752,
+            "id": 23,
             "address1": "24, JALAN 10, TAMAN PERINDUSTRIAN WAWASAN JALAN MERSING",
             "booth_no": "1A 09",
             "city": "",
             "name": "GOVENO SDN BHD"
         },
         {
-            "id": 1753,
+            "id": 24,
             "address1": "LOT 4813 15 1/2 MILE JALAN KAPAR",
             "booth_no": "1F 22",
             "city": "KAPAR",
             "name": "KAPAR COCONUT INDUSTRIES SDN BHD"
         },
         {
-            "id": 1754,
+            "id": 25,
             "address1": "3-10-1,",
             "booth_no": "1L 24",
             "city": "YAMAGATA-CITY,",
             "name": "THE MARUJYU SOYSAUCE & SEASONING CORP"
         },
         {
-            "id": 1755,
+            "id": 26,
             "address1": "NO 3 JALAN MUTIARA EMAS 5/2, TAMAN MOUNT AUSTIN,",
             "booth_no": "2U 25, 2U 26",
             "city": "JOHOR BAHRU",
             "name": "KOMATSU OIL FILTERS MALAYSIA SDN BHD"
         },
         {
-            "id": 1756,
+            "id": 27,
             "address1": "NO 742, LORONG PERINDUSTRIAN BUKIT MINYAK 11 TAMAN PERINDUSTRIAN BUKIT MINYAK",
             "booth_no": "1E 16",
             "city": "BUKIT MERTAJAM",
             "name": "GABAN SPICE MANUFACTURING (M) SDN BHD"
         },
         {
-            "id": 1757,
+            "id": 28,
             "address1": "SUDIRMAN PLAZA - INDOFOOD TOWER",
             "booth_no": "2K 04 , 2K 23",
             "city": "",
             "name": "PT INDOFOOD SUKSES MAKMUR TBK"
         },
         {
-            "id": 1758,
+            "id": 29,
             "address1": "7541 W99TH PLACE,",
             "booth_no": "1S 31, 1S 32",
             "city": "",
             "name": "LIGHT ART VR, LLC"
         },
         {
-            "id": 1759,
+            "id": 30,
             "address1": "42, JALAN MAKMUR 2 TAMAN MAKMUR",
             "booth_no": "1A 13",
             "city": "LUNAS",
             "name": "RICO FOOD INDUSTRIES SDN BHD"
-        },
-        {
-            "id": 1760,
-            "address1": "28-1 JALAN RADIN ANUM",
-            "booth_no": "1A 27, 1A 28",
-            "city": "SERI PETALING",
-            "name": "MEAT & LIVESTOCK AUSTRALIA"
-        },
-        {
-            "id": 1761,
-            "address1": "NO. 1840 TAMAN UJONG JLN TOK UNGKU",
-            "booth_no": "1S 17",
-            "city": "SEREMBAN",
-            "name": "PPS FOOD INDUSTRIES SDN BHD"
-        },
-        {
-            "id": 1762,
-            "address1": "7, JALAN SRI AMPANG,",
-            "booth_no": "1F 11, 1F 12",
-            "city": "IPOH",
-            "name": "YEE HUP FOOD HOLDINGS SDN BHD"
-        },
-        {
-            "id": 1763,
-            "address1": "",
-            "booth_no": "1G 26",
-            "city": "",
-            "name": "LAMEX FOODS"
-        },
-        {
-            "id": 1764,
-            "address1": "KOMPLEKS INDUSTRI MAKANAN MARA (KIMAR)",
-            "booth_no": "1B 17",
-            "city": "BATU CAVES",
-            "name": "PAWA CANNING CORPORATION (MALAYSIA) SDN BHD"
-        },
-        {
-            "id": 1765,
-            "address1": "",
-            "booth_no": "1T 04,1T 05,1T 06",
-            "city": "",
-            "name": "CK INGREDIENT SDN BHD"
-        },
-        {
-            "id": 1766,
-            "address1": "BLOCK C33, PLAZA JELUTONG, NO 5C, PERSIARAN GERBANG UTAMA, BUKIT JELUTONG,",
-            "booth_no": "1F 13",
-            "city": "SHAH ALAM",
-            "name": "AIRAONE CORPORATION SDN BHD"
-        },
-        {
-            "id": 1767,
-            "address1": "NO 35, JALAN SERULING 58,",
-            "booth_no": "2U 29",
-            "city": "KLANG",
-            "name": "PAPERCON PACKAGING (M) SDN BHD"
-        },
-        {
-            "id": 1768,
-            "address1": "LOT 200, JALAN INDUSTRI REMBIA 6 KAWASAN PERINDUSTRIAN REMBIA (MELAKA WORLD SOLAR VALLEY)",
-            "booth_no": "1B 07",
-            "city": "ALOR GAJAH",
-            "name": "SWEET HEART FOOD INDUSTRIES SDN BHD"
-        },
-        {
-            "id": 1769,
-            "address1": "",
-            "booth_no": "2C 09,2C 10,2C 11,2C 21,2C 22, 2C 23",
-            "city": "",
-            "name": "VIT MAKANAN (KUALA LUMPUR) SDN BHD (MALAYSIA FOOD FACTORY)"
-        },
-        {
-            "id": 1770,
-            "address1": "48 CROOKS ROAD EAST TAMAKI",
-            "booth_no": "1H 01, 1H 32",
-            "city": "AUCKLAND",
-            "name": "ALPHA LABORATORIES (NZ) LTD"
-        },
-        {
-            "id": 1771,
-            "address1": "LOT 11776,  JALAN KG BANJAR,",
-            "booth_no": "1C 13, 1C 14, 1C 19",
-            "city": "TELUK INTAN",
-            "name": "SHOON FATT TRADING SDN BHD"
         }
     ]
 }
