@@ -314,20 +314,6 @@
             "booth_no": "1T 07, 1T 08",
             "city": "",
             "name": "FIRST GRADE RESOURCES SDN BHD"
-        },
-        {
-            "id": 1775,
-            "address1": "LOT 83, JALAN KESUMA 2/3, PHASA 5D",
-            "booth_no": "1D 21",
-            "city": "BERANANG",
-            "name": "EVERYDAY F&B MANUFACTURING SDN BHD"
-        },
-        {
-            "id": 1776,
-            "address1": "",
-            "booth_no": "",
-            "city": "",
-            "name": "Micro-Tech Foods Ingredients Inc."
         }
     ]
 }
