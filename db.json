@@ -293,27 +293,6 @@
             "booth_no": "1C 13, 1C 14, 1C 19",
             "city": "TELUK INTAN",
             "name": "SHOON FATT TRADING SDN BHD"
-        },
-        {
-            "id": 1772,
-            "address1": "4F.-2, NO.17, GUOJI RD.",
-            "booth_no": "1L08",
-            "city": "",
-            "name": "Glac Biotech Co., Ltd."
-        },
-        {
-            "id": 1773,
-            "address1": "",
-            "booth_no": "",
-            "city": "",
-            "name": "Taho Biotechnology Co., Ltd."
-        },
-        {
-            "id": 1774,
-            "address1": "",
-            "booth_no": "1T 07, 1T 08",
-            "city": "",
-            "name": "FIRST GRADE RESOURCES SDN BHD"
         }
     ]
 }
